@@ -7,6 +7,7 @@
  4. MITM, Spoofing and Phishing Attacks
  5. How to get an confirmation of login
  6. Movement of data outside the entities
+ 7. Vulnerable databases cause more damage than user data exploitation
 
 ## Signup  :
 
