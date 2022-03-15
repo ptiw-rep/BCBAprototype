@@ -28,7 +28,7 @@
 	4.  new user’s chain public key
 	5.  new user’s RSA public key
 
-**The newly created user’s chain private key and RSA private key are not published to any data stream.**
+**The newly created user’s chain private key and RSA private key are not published to any data stream or any metadata.**
 
 ## Procedure :
  1. Login Request :
