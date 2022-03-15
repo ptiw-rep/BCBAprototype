@@ -7,6 +7,7 @@
  4. MITM, Spoofing and Phishing Attacks
  5. How to get an confirmation of login
  6. Movement of data outside the entities
+ 7. Vulnerable databases cause more damage than user data exploitation
 
 ## Signup  :
 
@@ -27,7 +28,7 @@
 	4.  new user’s chain public key
 	5.  new user’s RSA public key
 
-**The newly created user’s chain private key and RSA private key are not published to any data stream.**
+**The newly created user’s chain private key and RSA private key are not published to any data stream or any metadata.**
 
 ## Procedure :
  1. Login Request :
